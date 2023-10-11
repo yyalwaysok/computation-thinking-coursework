@@ -1,0 +1,19 @@
+.wrapper{
+    display:grid;
+    grid-gap: 10px;
+}
+.outline{
+    font-size: 14px;
+    color: lightsalmon;
+}
+.mainPic{
+    width: 80%;
+}
+
+body,*{
+
+}
+nav{
+    border:1px solid red;
+    flex:1 6 20%
+}
